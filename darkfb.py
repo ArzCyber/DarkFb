@@ -1,4 +1,4 @@
-#Decompiled by Deray Feat  Ahmad Riswanto 
+#Decompiled by Bang Arie Ft DarkN3T 
 import os, sys, time, datetime, random, hashlib, re, threading, json, getpass, urllib, requests, mechanize
 from multiprocessing.pool import ThreadPool
 
